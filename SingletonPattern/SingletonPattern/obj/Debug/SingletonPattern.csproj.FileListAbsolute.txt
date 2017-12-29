@@ -1,0 +1,14 @@
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\Ycheba\Semestr5\PnaYAVY\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+H:\ГОТОВЫЕ ЛАБЫ ПО ПНАЯВУ!!!\Lab_5\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
